@@ -1,0 +1,40 @@
+.navbar-fixed-bottom{
+  border-width: 4px 1px 0px 1px !important;
+}
+.navbar .player-container{
+  line-height: 50px;
+  padding-top: 5px;
+  vertical-align: middle;
+}
+
+.player-progress{
+  padding-top: 20px !important;
+}
+
+.player-progress .progress {
+  height: 5px;
+}
+
+.volume-level{
+  padding-top: 20px !important;
+  margin-left: -10%;
+}
+.volume-level .progress{
+  height: 5px;
+}
+
+.volume-level .progress{
+  cursor: pointer;
+}
+
+.song-list{
+  margin-bottom: 60px !important;
+}
+
+.player{
+  height: 80%;
+}
+
+.panel-heading h4{
+  color: #FFFFFF;
+}
